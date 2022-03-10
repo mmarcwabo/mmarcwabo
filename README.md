@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hello world 👋
 
-I'm a Software Engineer in Kinshasa, CD.
+I'm a Software Engineer in Kinshasa, CD 243 :congo_kinshasa:.
 I love building fullstack web applications.
 
 - 🔭 I’m currently working on the [Logis SM App](https://github.com/mmarcwabo/logissm)
