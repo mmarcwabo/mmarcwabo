@@ -15,6 +15,7 @@ I love building fullstack web applications.
 - [Personal blog](https://wabo.work)
 - [Linkedin](https://www.linkedin.com/in/marcellin-wabo/)
 - [Twitter](https://twitter.com/marcwabo)
+- [Stackoverflow](https://stackoverflow.com/users/11747307/marcellin-wabo)
 
 ### Github Stats
 
