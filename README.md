@@ -1,16 +1,21 @@
 ### Hi there 👋
 
-<!--
-**mmarcwabo/mmarcwabo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineer in Kinshasa, CD.
+I love building fullstack web applications.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on the [Logis SM App](https://github.com/mmarcwabo/logissm)
+- 👯 I'am currently contributing to the Free/Libre/Open Source Web Application with the most built-in features [Tiki](https://tiki.org).
+- 🌱 I’m currently learning flutter and python for current and future projects
+- 💬 Ask me about [php](https://php.net), [Java](https://java.com) and Databases
+- 😄 Pronouns: he/him/his
+- ⚡ From python zen: Special cases aren't special enough to break the rules.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Ping me
+
+[![Personal blog](https://wabo.work)
+[![Linkedin]](https://www.linkedin.com/in/marcellin-wabo/)
+[![Twitter](https://twitter.com/marcwabo)
+
+### Github Stats
+
+[![Marcellin's Github Stats](https://github-readme-stats.vercel.app/api?username=mmarcwabo&count_private=true&theme=default&show_icons=true)](https://github.com/mmarcwabo)
