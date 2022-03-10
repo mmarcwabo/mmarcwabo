@@ -12,9 +12,9 @@ I love building fullstack web applications.
 
 ### Ping me
 
-[![Personal blog](https://wabo.work)
-[![Linkedin]](https://www.linkedin.com/in/marcellin-wabo/)
-[![Twitter](https://twitter.com/marcwabo)
+- [Personal blog](https://wabo.work)
+- [Linkedin](https://www.linkedin.com/in/marcellin-wabo/)
+- [Twitter](https://twitter.com/marcwabo)
 
 ### Github Stats
 
