@@ -20,4 +20,3 @@ I love building fullstack web applications.
 ### Github Stats
 
 [![Marcellin's Github Stats](https://github-readme-stats.vercel.app/api?username=mmarcwabo&count_private=true&theme=default&show_icons=true)](https://github.com/mmarcwabo)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmarcwabo&layout=compact)](https://github.com/mmarcwabo)
