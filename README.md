@@ -3,7 +3,7 @@
 I'm a Software Engineer in Kinshasa, CD 243 :congo_kinshasa:.
 I love building fullstack web applications.
 
-- 🔭 I’m currently working on the [Logis SM App](https://github.com/mmarcwabo/logissm)
+- 🔭 I’m currently working on the [Logis SM App](https://github.com/mmarcwabo/logissm) and [Jaxin API](https://github.com/mmarcwabo/jaxinapi)
 - 👯 I'am currently contributing to the Free/Libre/Open Source Web Application with the most built-in features [Tiki](https://tiki.org).
 - 🌱 I’m currently learning flutter and python for current and future projects
 - 💬 Ask me about [php](https://php.net), [Java](https://java.com) and Databases
