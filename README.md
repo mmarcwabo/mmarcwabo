@@ -16,9 +16,3 @@ I love building fullstack web applications.
 - [Linkedin](https://www.linkedin.com/in/marcellin-wabo/)
 - [Twitter](https://twitter.com/marcwabo)
 - [Stackoverflow](https://stackoverflow.com/users/11747307/marcellin-wabo)
-
-### Github Stats
-
-[![Marcellin's Github Stats](https://github-readme-stats.vercel.app/api?username=mmarcwabo&count_private=true&theme=default&show_icons=true)](https://github.com/mmarcwabo)
-###  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmarcwabo&langs_count=10)](https://github.com/mmarcwabo)
