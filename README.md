@@ -5,7 +5,6 @@ I love building fullstack web applications.
 
 - 🔭 I’m currently more active on [Gitlab](https://gitlab.com/marcwabo).
 - 👯 I'am currently contributing to the Free/Libre/Open Source Web Application with the most built-in features [Tiki](https://tiki.org) and [Cypht](https://github.com/jasonmunro/cypht).
-- 😄 Pronouns: he/him/his
 - ⚡ From python zen: Special cases aren't special enough to break the rules.
 
 ### Ping me
